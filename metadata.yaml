@@ -1,0 +1,42 @@
+_repo: Aesthetic-as-Science-of-Expression-and-General-Linguistic_9306
+alternative_title: Estetica come scienza dell'espressione e linguistica generale.
+  English
+contributor:
+  translator:
+    agent_name: Ainslie, Douglas
+    birthdate: 1865
+    deathdate: 1948
+    gutenberg_agent_id: '40837'
+    url: http://www.gutenberg.org/2009/agents/40837
+creator:
+  author:
+    agent_name: Croce, Benedetto
+    birthdate: 1866
+    deathdate: 1952
+    gutenberg_agent_id: '3007'
+    url: http://www.gutenberg.org/2009/agents/3007
+    wikipedia: http://en.wikipedia.org/wiki/Benedetto_Croce
+description: Historical intellectualism has been the cause of the many researches
+  which have been made, especially during the last two centuries, researches which
+  continue to-day, for a philosophy of history, for an ideal history, for a sociology,
+  for a historical psychology, or however may be otherwise entitled or described a
+  science whose object is to extract from history, universal laws and concepts. Of
+  what kind must be these laws, these universals? Historical laws and historical concepts?
+  In that case, an elementary criticism of knowledge suffices to make clear the absurdity
+  of the attempt.
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BH'
+- !lcsh 'Aesthetics'
+- !lcsh 'Philosophy'
+- !lcsh 'Language and languages -- Philosophy'
+- !lcc 'B'
+title: Aesthetic as Science of Expression and General Linguistic
+url: http://www.gutenberg.org/ebooks/9306
